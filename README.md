@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">Learning : Student</h3>
+<h3 align="center">Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jatinsharma496&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 **Current Project:** [Custom Http Server](https://github.com/JatinSharma496/Custom-Http-Server-in-Java)  
-- 🌱 **Learning:** Full Stack Development  
+- 🔭 **Current Project:** [Patient Management System](https://github.com/JatinSharma496/Custom-Http-Server-in-Java)  
+- 🌱 **Learning:** Java Backend Development  
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/jatin-sharma496)  
-- ⚡ **Fun Fact:** I enjoy blending creativity with logic.  
+- ⚡ **Fun Fact:** I enjoy learning things.  
 
 ---
 
