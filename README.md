@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jatinsharma496&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 **Current Project:** [Patient Management System](https://github.com/JatinSharma496/Custom-Http-Server-in-Java)  
+- 🔭 **Current Project:** [Patient Management System](https://github.com/JatinSharma496/Patient-Management-System) 
 - 🌱 **Learning:** Java Backend Development  
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/jatin-sharma496)  
 - ⚡ **Fun Fact:** I enjoy learning things.  
